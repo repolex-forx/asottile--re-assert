@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/re-assert/commit/43fc286427aaab1f6638dc4fa8d6d77fffb921a8",
       "git:hexsha": "43fc286427aaab1f6638dc4fa8d6d77fffb921a8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/re-assert/commit/da9281bcc564fd39e6325283c68bfe270858be30",
